@@ -100,5 +100,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions are welcome! If you have ideas for improvements, feel free to fork the repository and submit a pull request.
 
 ---
-
-This script transforms the mundane task of tracking attendance into an efficient and enjoyable experience. Install it today and make the most of your time! 🚀
