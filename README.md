@@ -52,7 +52,7 @@
 
 ## Usage
 
-1. Navigate to the Keka platform: `https://ezeetechnosys.keka.com/`.
+1. Navigate to the Keka platform: `https://*********.keka.com/`.
 
 2. Open the attendance log modal by clicking on the relevant row.
 
