@@ -8,6 +8,7 @@
 # Keka Log Duration by Jp
 
 **Keka Log Duration by Jp** is a Tampermonkey user script that improves the usability of the Keka platform by automating log duration calculations and displaying total log-in time. This script is perfect for users who want to quickly track their attendance log durations without manual calculations.
+
 ![demo](https://github.com/user-attachments/assets/02facdf8-ca34-4395-80a8-23aa61b1506c)
 
 
